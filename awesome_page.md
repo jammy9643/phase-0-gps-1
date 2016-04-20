@@ -4,4 +4,4 @@
 
 [The World] (http://sourcefed.com/wp-content/uploads/2014/12/world.jpg)
 
-![alt text](C:\Sites\practice\1.1gps\phase-0-gps-1 "Teamwork")
+![alt text](https://github.com/jammy9643/phase-0-gps-1/blob/master/teamwork.png "Teamwork")
